@@ -84,7 +84,6 @@ prompt-toolkit==3.0.5
 protobuf==3.12.2
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-PyAudio @ file:///C:/Users/Ascott/Downloads/PyAudio-0.2.11-cp38-cp38-win_amd64.whl
 pycparser==2.20
 pycryptodome==3.9.8
 pyglet==1.5.7
