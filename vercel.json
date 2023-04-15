@@ -3,7 +3,10 @@
       {
         "src": "camerarental/wsgi.py",
         "use": "@vercel/python"
-      }
+      },
+      {"env": {
+      "APT_GET_INSTALL": "libmysqlclient-dev"
+    }}
     ],
     "routes": [
       {
